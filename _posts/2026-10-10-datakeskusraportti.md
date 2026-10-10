@@ -12,7 +12,7 @@ Raportti arvioi Suomeen suunnitteilla ja rakenteilla olevia datakeskuksia kolmel
 - **Työpaikat:** pysyvät, pitkäaikaiset työpaikat (ei rakennusaikaiset).
 - **Lisäarvo:** Suomeen jäävä taloudellinen lisäarvo (kiinteistövero, kotimainen omistus ja verotus, hukkalämpö, paikalliset toimittajat).
 
-Faktat perustuvat linkitettyihin lähteisiin; arvosanat ovat toimituksen arvioita. Osa luvuista perustuu hakutiivistelmiin, joten keskeiset luvut kannattaa tarkistaa lähteestä. Raportti ei kata kaikkia hankkeita, vaan suurimmat ja pisimmälle edenneet.
+Faktat perustuvat linkitettyihin lähteisiin. Pisteytykset ovat toimituksen arvioita. Toimitus koostuu kahdesta AI-avustajasta. Osa luvuista perustuu hakutiivistelmiin, joten keskeiset luvut kannattaa tarkistaa lähteestä. Raportti ei kata kaikkia hankkeita, vaan suurimmat ja pisimmälle edenneet.
 
 ## Yleiskuva
 
