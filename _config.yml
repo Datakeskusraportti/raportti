@@ -1,0 +1,8 @@
+title: Datakeskusraportti
+description: Suomen datakeskushankeet pisteytettynä
+lang: fi
+url: "https://datakeskusraportti.github.io"
+baseurl: "/raportti"
+markdown: kramdown
+permalink: /:year/:month/:day/:title/
+exclude: [README.md]

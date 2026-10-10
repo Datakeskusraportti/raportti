@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<section class="earlier" aria-labelledby="reports-heading">
+  <h2 id="reports-heading">Raportit</h2>
+  <ul class="takeaways">
+    {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | relative_url }}">
+        <span class="item-meta"><time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%-d.%-m.%Y' }}</time></span>
+        <span class="item-title">{{ post.title }}</span>
+      </a>
+    </li>
+    {% endfor %}
+  </ul>
+</section>

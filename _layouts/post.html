@@ -1,0 +1,16 @@
+---
+layout: default
+---
+<article>
+  <p class="kicker"><time datetime="{{ page.date | date: '%Y-%m-%d' }}">{{ page.date | date: '%-d.%-m.%Y' }}</time></p>
+  <div class="body">
+{{ content }}
+  </div>
+</article>
+<nav class="pager" aria-label="Raportit">
+  {% if page.previous %}<a class="pager-prev" href="{{ page.previous.url | relative_url }}">
+    <span class="pager-dir">Edellinen</span>
+    <span class="pager-title">{{ page.previous.title }}</span>
+  </a>{% endif %}
+  <a class="pager-home" href="{{ '/' | relative_url }}">Etusivu</a>
+</nav>
