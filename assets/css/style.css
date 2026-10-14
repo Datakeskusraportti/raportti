@@ -314,3 +314,20 @@ a:focus-visible {
 .body h2 { margin-top: 2em; }
 .body table { border-collapse: collapse; width: 100%; margin: 1em 0; font-size: .95em; }
 .body th, .body td { border-bottom: 1px solid rgba(127,127,127,.3); padding: .4em .6em; text-align: left; vertical-align: top; }
+
+/* Report section headings */
+.body h2 {
+  margin: 2.6em 0 0.6em;
+  color: var(--text, inherit);
+  font-size: 1.6rem;
+  font-weight: 700;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+  text-transform: none;
+}
+.body h3 {
+  margin: 1.8em 0 0.4em;
+  font-size: 1.2rem;
+  font-weight: 650;
+  line-height: 1.3;
+}
