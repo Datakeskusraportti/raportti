@@ -6,3 +6,7 @@ baseurl: "/raportti"
 markdown: kramdown
 permalink: /:year/:month/:day/:title/
 exclude: [README.md]
+
+kramdown:
+  input: GFM
+  parse_block_html: true
